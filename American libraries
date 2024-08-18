@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>American Libraries - Homepage</title>
+</head>
+<body>
+    <table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+            <td colspan="2" align="center">
+                <h1>Welcome to American Libraries</h1>
+            </td>
+        </tr>
+        <tr>
+            <td width="200" valign="top">
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="catalog.html">Catalog</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </td>
+            <td width="600" valign="top">
+                <h2>Latest News</h2>
+                <p>Welcome to the official website of American Libraries. Here, you will find a collection of resources, services, and news updates about libraries across the nation.</p>
+                
+                <h2>Our Mission</h2>
+                <p>The mission of American Libraries is to provide free access to information, support lifelong learning, and promote literacy and education through the wide availability of resources.</p>
+                
+                <h2>Upcoming Events</h2>
+                <ul>
+                    <li><b>September 20:</b> National Library Conference</li>
+                    <li><b>October 15:</b> Book Donation Drive</li>
+                    <li><b>November 5:</b> Author Meet & Greet</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <p>&copy; 1999 American Libraries | <a href="https://web.archive.org/web/19990208085847/http://www.google.com/">Visit Google (Feb 8, 1999)</a></p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
